@@ -1,7 +1,7 @@
 all: README.md
 
 README.md:
-	echo "#The Ultimate Guessing Game" > README.md
+	echo "# The Ultimate Guessing Game" > README.md
 	echo ""
 	echo "Make created on: $$(date)" >> README.md
 	echo "" >> README.md
