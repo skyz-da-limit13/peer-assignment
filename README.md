@@ -1,4 +1,4 @@
 # The Ultimate Guessing Game
-Make created on: Mon Jul 23 16:58:13 DST 2018
+Make created on: Mon Jul 23 18:11:18 DST 2018
 
-Number of lines in guessinggame.sh: 30 guessinggame.sh
+Lines of code in guessinggame.sh: 30
